@@ -1,0 +1,6 @@
+﻿  CircleMain.cpp
+  DSA_Week01.cpp
+  Circle.cpp
+  Generating Code...
+DSA_Week01.obj : error LNK2005: _main already defined in CircleMain.obj
+C:\Users\derek\Downloads\Year 2 Sem 2\DSA\Practical\DSA_Week01\Debug\DSA_Week01.exe : fatal error LNK1169: one or more multiply defined symbols found

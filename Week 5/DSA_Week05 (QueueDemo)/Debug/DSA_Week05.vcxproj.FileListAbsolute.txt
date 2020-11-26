@@ -1,0 +1,4 @@
+C:\Users\derek\Downloads\Year 2 Sem 2\DSA\Practical\DSA_Week05\Debug\DSA_Week05.exe
+C:\Users\derek\Downloads\Year 2 Sem 2\DSA\Practical\DSA_Week05\Debug\DSA_Week05.pdb
+C:\Users\derek\Downloads\Year 2 Sem 2\DSA\Practical\DSA_Week05 (QueueDemo)\Debug\DSA_Week05.exe
+C:\Users\derek\Downloads\Year 2 Sem 2\DSA\Practical\DSA_Week05 (QueueDemo)\Debug\DSA_Week05.pdb
